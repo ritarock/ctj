@@ -3,7 +3,7 @@
 ## install
 ```
 $ git clone https://github.com/ritarock/ctj.git
-$ cd conversionc/
+$ cd ctj/
 $ go install
 ```
 
